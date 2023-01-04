@@ -6,6 +6,8 @@
 
 Lottie is a mobile library for Android and iOS that parses [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations exported as json with [Bodymovin](https://github.com/airbnb/lottie-web) and renders them natively on mobile!
 
+[Wenbin's commit](https://github.com/airbnb/lottie-android/commit/f38d0df5b1ea7403ad08789955580f8df974852a) for [PR#1959](https://github.com/airbnb/lottie-android/pull/1959). 
+
 For the first time, designers can create **and ship** beautiful animations without an engineer painstakingly recreating it by hand. They say a picture is worth 1,000 words so here are 13,000:
 
 # Sponsors
